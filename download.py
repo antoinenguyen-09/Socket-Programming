@@ -2,7 +2,7 @@ import socket
 import select
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.connect(('httpbin.org', 80))
+s.connect(('144.76.136.153', 80))   # using socket.gethostbyname('transfer.sh') to gain IP address of host
 s.sendall(b'GET /pAsmS/HoangNCH_challege4.md HTTP/1.1\r\nHOST: transfer.sh\r\n\r\n')
 
 reply = b''
