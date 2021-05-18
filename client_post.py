@@ -3,7 +3,7 @@ import socket
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect(("144.76.136.153",80))  # socket.gethostbyname('transfer.sh')
-
+# Do trang transfer.sh chưa có chức năng nào có thể dùng được POST request nên tạm thời để source request đến là "/" 
 header = "POST / HTTP/1.1\r\n
 Host: transfer.sh\r\n
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:46.0) Gecko/20100101 Firefox/46.0\r\n
