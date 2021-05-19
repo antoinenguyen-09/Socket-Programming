@@ -1,10 +1,4 @@
-# Bài 4:  LẬP TRÌNH MẠNG/HTTP client
-
-|   Người thực hiện    | Tuần |             Chủ đề             |
-| :------------------: | :--: | :----------------------------: |
-| Nguyễn Cao Huy Hoàng |  2   | Ứng dụng/Lập trình /SSH Logger |
-
-
+# CÁC VẤN ĐỀ VỀ NETWORK PROGRAMMING VÀ HTTP client
 
 ### I. LÝ THUYẾT:
 
