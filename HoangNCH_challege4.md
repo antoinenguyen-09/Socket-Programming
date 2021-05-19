@@ -86,25 +86,25 @@ HttpOnly là một flag được bổ sung trong Set-Cookie HTTP response header
 
 ##### 1) HTTP Client **GET**:
 
-- Source of client_get.py: https://github.com/antoinenguyen-09/Socket-Programming/edit/main/client.py
+- [Source of client_get.py](https://github.com/antoinenguyen-09/Socket-Programming/edit/main/client.py)
 - Output:
 
 ![image](https://user-images.githubusercontent.com/61876488/118679305-fb0b7700-b827-11eb-836c-93fb5b77174f.png)
 
 ##### 2) HTTP Client POST:
 
-- Source of client_post.py: https://github.com/antoinenguyen-09/Socket-Programming/blob/main/client_post.py
+- [Source of client_post.py](https://github.com/antoinenguyen-09/Socket-Programming/blob/main/client_post.py)
 
 ##### 3) HTTP Client upload:
 
-- Source of upload.py: https://github.com/antoinenguyen-09/Socket-Programming/blob/main/upload.py
+- [Source of upload.py](https://github.com/antoinenguyen-09/Socket-Programming/blob/main/upload.py)
 - Output:
 
 ![image](https://user-images.githubusercontent.com/61876488/118694812-ae7b6800-b836-11eb-9fc9-eeb5af7380d3.png)
 
 ##### 4) HTTP Client download:
-
-- Source of download.py:  https://github.com/antoinenguyen-09/Socket-Programming/blob/main/download.py
+ 
+- [Source of download.py](https://github.com/antoinenguyen-09/Socket-Programming/blob/main/download.py)
 - Output:
 
 ![image](https://user-images.githubusercontent.com/61876488/118696329-61989100-b838-11eb-9224-2fa0ab80f8a3.png)
